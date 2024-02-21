@@ -45,6 +45,6 @@ password += ''.join(random.choices(kl, k=a))
 
 
 
-st.write("Şifreniz:", password)
+st.write("Your password is:", password)
 
 #portfolyomuza koyalım
